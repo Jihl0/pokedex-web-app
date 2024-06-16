@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "pokedex-promise-v2": "^4.2.0"
+  },
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "a pokedex clone app",
+  "main": "test.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jihl0/pokedex-web-app.git"
+  },
+  "keywords": [
+    "pokedex"
+  ],
+  "author": "Jihl0",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jihl0/pokedex-web-app/issues"
+  },
+  "homepage": "https://github.com/Jihl0/pokedex-web-app#readme",
+  "type": "module"
+}
